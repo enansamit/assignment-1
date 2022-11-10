@@ -23,6 +23,8 @@ body {
 
 p {
     font-size: 20px;
+    line-height: 30px;
+
 }
 
 h1 {
@@ -48,4 +50,8 @@ h1 {
     padding: 10px 15px;
     background-color: #900;
 
+}
+
+a:hover {
+    color: black;
 }
