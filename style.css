@@ -42,16 +42,80 @@ h1 {
     text-decoration: none;
     color: white;
 
-    border: 2px;
+    border: solid 2px;
+    border-style: none;
 
 
     border-radius: 10px;
     font-size: 20px;
-    padding: 10px 15px;
-    background-color: #900;
+    padding: 15px 20px;
+    background-color: rgb(252, 88, 88);
 
 }
 
 a:hover {
     color: black;
+}
+
+.donation-header {
+    text-align: center;
+
+}
+
+.grey-para {
+    color: grey;
+
+
+}
+
+.i-font-weight {
+
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.sec-section {
+    margin-top: 150px;
+}
+
+.tk-section {
+    display: flex;
+    margin-left: 350px;
+
+}
+
+
+.flexing {
+    padding: 30px;
+
+}
+
+.unique {
+    background-color: rgb(250, 220, 225);
+    color: rgb(252, 88, 88);
+    border: 2px solid rgb(252, 88, 88);
+    border-radius: 10px;
+    padding: 25px 20px;
+    margin-top: 0;
+    font-weight: 700;
+
+
+
+}
+
+.input-tk {
+    margin-top: 80px;
+    text-align: center;
+}
+
+.input-field {
+    border: none;
+    border-bottom: 2px solid grey;
+    width: 50%;
+    text-align: center;
+    font-size: 20px;
+}
+
+.anch-top-margin {
+    margin-top: 30px;
 }
