@@ -160,12 +160,57 @@ a:hover {
 
 .emailBox {
     display: flex;
-    margin-left: 300px;
+    margin-left: 450px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+    height: 50px;
+    width: 500px;
+
+
+
+
 }
 
-.boxDesign {
-    width: 300px;
-    border: solid grey 2px;
-    border-radius: 5px;
+.button-design {
+    padding: 10px;
+    background-color: rgb(252, 88, 88);
+    border: 2px solid rgb(252, 88, 88);
+    color: white;
+
+
+
+
+}
+
+.input-design {
     border: none;
+    background-color: rgb(214, 205, 205);
+    width: 300px;
+    height: 37px;
+    padding-left: 10px;
+
+}
+
+.footer-design {
+    text-align: center;
+    margin-top: 40px;
+    background-color: rgb(46, 44, 44);
+    color: white;
+    height: 200px;
+}
+
+.header-placement {
+    padding-top: 80px;
+    font-family: 'Kaushan Script', cursive;
+}
+
+.last-try {
+    background-color: rgb(252, 200, 252);
+    width: 100%;
+
+
+
 }
