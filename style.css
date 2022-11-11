@@ -119,3 +119,53 @@ a:hover {
 .anch-top-margin {
     margin-top: 30px;
 }
+
+.para-width {
+    width: 50%;
+    margin-left: 350px;
+}
+
+.upper-margin {
+    margin-top: 100px;
+}
+
+.donate-sides {
+    display: flex;
+    margin-top: 50px;
+}
+
+.devide {
+    width: 25%;
+    padding: 30px;
+    text-align: justify;
+    margin-left: 40px;
+    height: 305px;
+}
+
+#first-div {
+    background-color: rgb(161, 190, 243);
+}
+
+#second-div {
+    background-color: rgb(196, 245, 228);
+}
+
+#third-div {
+    background-color: mistyrose;
+}
+
+.last-sec {
+    margin-top: 150px;
+}
+
+.emailBox {
+    display: flex;
+    margin-left: 300px;
+}
+
+.boxDesign {
+    width: 300px;
+    border: solid grey 2px;
+    border-radius: 5px;
+    border: none;
+}
